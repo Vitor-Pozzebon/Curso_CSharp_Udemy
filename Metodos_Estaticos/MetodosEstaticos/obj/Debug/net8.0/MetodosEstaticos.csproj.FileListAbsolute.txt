@@ -1,0 +1,14 @@
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.exe
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.deps.json
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.runtimeconfig.json
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.dll
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\bin\Debug\net8.0\MetodosEstaticos.pdb
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.AssemblyInfoInputs.cache
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.AssemblyInfo.cs
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.csproj.CoreCompileInputs.cache
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.dll
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\refint\MetodosEstaticos.dll
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.pdb
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\MetodosEstaticos.genruntimeconfig.cache
+D:\Projetos C#\MetodosEstaticos\MetodosEstaticos\obj\Debug\net8.0\ref\MetodosEstaticos.dll
