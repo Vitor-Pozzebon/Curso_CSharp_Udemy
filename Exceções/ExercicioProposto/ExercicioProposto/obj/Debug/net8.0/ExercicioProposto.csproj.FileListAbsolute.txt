@@ -1,0 +1,14 @@
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.exe
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.deps.json
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.runtimeconfig.json
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.dll
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\bin\Debug\net8.0\ExercicioProposto.pdb
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.AssemblyInfoInputs.cache
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.AssemblyInfo.cs
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.dll
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\refint\ExercicioProposto.dll
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.pdb
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\ExercicioProposto.genruntimeconfig.cache
+D:\Projetos C#\Exceções\ExercicioProposto\ExercicioProposto\obj\Debug\net8.0\ref\ExercicioProposto.dll
